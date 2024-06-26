@@ -1,0 +1,39 @@
+
+
+.home-hmcontainer {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-hmcontainer h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .home-hmcontainer p {
+    line-height: 1.6;
+    color: #666;
+  }
+  /* home.css */
+
+/* home.css */
+
+.hmcustom-card {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .hmcustom-card .card-body {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  

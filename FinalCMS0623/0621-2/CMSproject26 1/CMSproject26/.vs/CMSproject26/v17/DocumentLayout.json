@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\controllers\\usermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\controllers\\usermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\controllers\\contentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\controllers\\contentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\iusermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\iusermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\usermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\usermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\controllers\\usertypemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\controllers\\usertypemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\contentmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\contentmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\icontentmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\icontentmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|d:\\apractice\\finalcms0623\\0621-2\\cmsproject26 1\\cmsproject26\\cmsproject26\\migrations\\20240622143339_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE84646A-1306-4227-AD6C-8CF975594C84}|CMSproject26\\CMSproject26.csproj|solutionrelative:cmsproject26\\migrations\\20240622143339_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31854612:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Models\\UserMaster.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Models\\UserMaster.cs",
+              "RelativeToolTip": "CMSproject26\\Models\\UserMaster.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:01:01.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserMasterRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\IUserMasterRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\IUserMasterRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\IUserMasterRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\IUserMasterRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:58:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMasterController.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\UserMasterController.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Controllers\\UserMasterController.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\UserMasterController.cs",
+              "RelativeToolTip": "CMSproject26\\Controllers\\UserMasterController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAUwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:54:17.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMasterRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\UserMasterRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\UserMasterRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\UserMasterRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\UserMasterRepository.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwJEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:55:27.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentMasterController.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\ContentMasterController.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Controllers\\ContentMasterController.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\ContentMasterController.cs",
+              "RelativeToolTip": "CMSproject26\\Controllers\\ContentMasterController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAuwJ8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:03:05.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserTypeMasterController.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\UserTypeMasterController.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Controllers\\UserTypeMasterController.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\UserTypeMasterController.cs",
+              "RelativeToolTip": "CMSproject26\\Controllers\\UserTypeMasterController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:50:15.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240622143339_SecondMigration.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Migrations\\20240622143339_SecondMigration.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Migrations\\20240622143339_SecondMigration.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Migrations\\20240622143339_SecondMigration.cs",
+              "RelativeToolTip": "CMSproject26\\Migrations\\20240622143339_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:33:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\appsettings.json",
+              "RelativeDocumentMoniker": "CMSproject26\\appsettings.json",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\appsettings.json",
+              "RelativeToolTip": "CMSproject26\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T14:32:17.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentMasterRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\ContentMasterRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\ContentMasterRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\ContentMasterRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\ContentMasterRepository.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:03:02.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CMSproject26\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:35:39.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\LoginRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:32:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\ILoginRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\ILoginRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:46:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Program.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Program.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Program.cs",
+              "RelativeToolTip": "CMSproject26\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:52:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContentMasterRepository.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\IContentMasterRepository.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\Repositories\\IContentMasterRepository.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\Repositories\\IContentMasterRepository.cs",
+              "RelativeToolTip": "CMSproject26\\Repositories\\IContentMasterRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:32:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CMSproject26\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\APractice\\FinalCMS0623\\0621-2\\CMSproject26 1\\CMSproject26\\CMSproject26\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "CMSproject26\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:24:11.569Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

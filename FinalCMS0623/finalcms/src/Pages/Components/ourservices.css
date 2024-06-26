@@ -1,0 +1,113 @@
+/* .custom-card {
+    width: 20%; 
+    height: 100px; 
+    float: left;
+    border: 5px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/015/132/103/non_2x/light-cyan-background-images-hd-pictures-and-wallpaper-for-free-download-free-photo.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-card .card-body {
+    padding: 20px;
+  }
+  
+  .custom-card .card-text {
+    font-size: 30px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .custom-card .card-text p {
+    margin-bottom: 1rem;
+  } */
+
+
+
+  /* https://authory.com/blog/content/images/2023/08/What-is-a-writing-portfolio-FEATURED-IMAGE_TINY.jpeg */
+
+
+
+  /* Page background */
+body {
+  background: linear-gradient(to right, #e0f7fa, #80deea);
+  font-family: 'Arial, sans-serif';
+  margin: 0;
+  padding: 0;
+}
+
+
+/* body {
+  background: linear-gradient(to right, #e0f7fa, #80deea);
+  font-family: 'Arial, sans-serif';
+  margin: 0;
+  padding: 0;
+  background-image: url('your-background-image-url
+} */
+
+.services-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.services-card {
+  width: 20%;
+  min-height: 150px;
+  margin: 20px; /* Margin between cards */
+  border: 2px solid #ddd;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background: #ffffff; /* White background for cards */
+  transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.services-card:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02); /* Slightly scale up on hover */
+}
+
+.services-card .card-body {
+  padding: 10px; /* Reduced padding */
+}
+
+.services-card .card-title {
+  font-size: 22px;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.services-card .card-text {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #555; /* Slightly lighter color */
+}
+
+.services-card .card-text p {
+  margin-bottom: 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .services-card {
+    width: 100%;
+    margin: 10px 0; /* Reduced margin for smaller screens */
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .services-card {
+    width: 45%;
+  }
+}

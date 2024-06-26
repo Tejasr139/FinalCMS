@@ -1,0 +1,6 @@
+@CMSproject26_HostAddress = http://localhost:5106
+
+GET {{CMSproject26_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

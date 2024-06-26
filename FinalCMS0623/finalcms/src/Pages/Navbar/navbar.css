@@ -1,0 +1,47 @@
+.custom-navbar {
+  background-color: #34495e !important; /* Dark blue background color */
+  padding: 1rem 2rem; /* Add padding for better spacing */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+}
+
+.custom-navbar .navbar-brand {
+  font-size: 1.75rem; /* Adjust the font size of the brand name */
+  font-weight: bold;
+  color: #ecf0f1 !important; /* Light grey color for the brand name */
+  margin-right: 10rem;
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.custom-navbar .navbar-brand:hover {
+  color: #f39c12 !important; /* Change color on hover */
+}
+
+.custom-navbar .nav-link {
+  font-size: 1.25rem; /* Adjust the font size of the links */
+  color: #ecf0f1 !important; /* Light grey color for the links */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.custom-navbar .nav-link:hover {
+  color: #f39c12 !important; /* Gold color on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+
+.custom-navbar .navbar-toggler {
+  border: none; /* Remove border from the toggler button */
+}
+
+.custom-navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28236, 240, 241, 0.5%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .custom-navbar .navbar-brand {
+    margin-right: 2rem;
+  }
+
+  .custom-navbar .nav-link {
+    font-size: 1rem;
+  }
+}

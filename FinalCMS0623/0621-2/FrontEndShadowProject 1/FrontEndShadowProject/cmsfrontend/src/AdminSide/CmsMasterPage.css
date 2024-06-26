@@ -1,0 +1,164 @@
+/* 
+.cmpcontainer {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  form div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="email"],
+  textarea {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  button[type="submit"],
+  button[type="button"] {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover,
+  button[type="button"]:hover {
+    background-color: #0056b3;
+  }
+  
+  button[type="button"] {
+    background-color: #dc3545;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #c82333;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    margin-top: 10px;
+  }
+   */
+
+   .cmpcontainer {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .cmpcontainer h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .cmpcontainer form,
+  .cmpcontainer table,
+  .cmpcontainer div {
+    margin-bottom: 20px;
+  }
+  
+  .cmpcontainer label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .cmpcontainer input[type="text"],
+  .cmpcontainer textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .cmpcontainer button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .cmpcontainer button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cmpcontainer .error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .cmpcontainer table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cmpcontainer table,
+  .cmpcontainer th,
+  .cmpcontainer td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .cmpcontainer th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  /* Adjust form layout */
+  .cmpcontainer form > div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cmpcontainer form > div > label {
+    margin-bottom: 5px;
+  }
+  
+  .cmpcontainer form > div > input[type="text"],
+  .cmpcontainer form > div > textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
